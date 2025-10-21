@@ -56,6 +56,15 @@ Find the BookApplication.java file in the src/main/java/com/book/inventory/app p
 
 Right-click on the file and select "Run As" > "Java Application".
 
+The server will start on port 8080.
+
+
+💻 Usage
+Once the application is running, open your web browser and navigate to: http://localhost:8080
+
+You can use the navigation bar to access all the features like adding, searching, and deleting books.
+
+
 ## 📸 Screenshots
 ![Home Page] (https://github.com/Manwatkar27/Book-Inventory-System/blob/main/Screenshot/Home%20Page.png?raw=true)
 
@@ -66,11 +75,6 @@ Right-click on the file and select "Run As" > "Java Application".
 ![DeleteBook Page] (https://github.com/Manwatkar27/Book-Inventory-System/blob/main/Screenshot/DeleteBook%20Page.png?raw=true)
 
 
+
 ## 👤 Author
 Aman Manwatkar
-The server will start on port 8080.
-
-💻 Usage
-Once the application is running, open your web browser and navigate to: http://localhost:8080
-
-You can use the navigation bar to access all the features like adding, searching, and deleting books.
