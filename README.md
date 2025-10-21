@@ -57,7 +57,10 @@ Find the BookApplication.java file in the src/main/java/com/book/inventory/app p
 Right-click on the file and select "Run As" > "Java Application".
 
 ## 📸 Screenshots
-
+![Home Page] (https://github.com/Manwatkar27/Book-Inventory-System/blob/main/Screenshot/Home%20Page.png?raw=true)
+![AddBook Page] (https://github.com/Manwatkar27/Book-Inventory-System/blob/main/Screenshot/AddBook%20Page.png?raw=true)
+![SearchBook Page] (https://github.com/Manwatkar27/Book-Inventory-System/blob/main/Screenshot/SearchBook%20Page.png?raw=true)
+![DeleteBook Page] (https://github.com/Manwatkar27/Book-Inventory-System/blob/main/Screenshot/DeleteBook%20Page.png?raw=true)
 
 ## 👤 Author
 Aman Manwatkar
